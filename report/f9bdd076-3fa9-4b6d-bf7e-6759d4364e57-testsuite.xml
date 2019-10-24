@@ -1,0 +1,18 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1571901500824" stop="1571901500829">
+  <name>read_yaml</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1571901500824" status="passed" stop="1571901500829">
+      <name>Read.read</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="8500-MainThread"/>
+        <label name="host" value="DESKTOP-IMP2ROA"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>
